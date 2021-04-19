@@ -1,0 +1,4 @@
+{
+    "gitlab_token":"yourAccesstoken",
+    "list_repoID":["yourProjectID"]
+}
