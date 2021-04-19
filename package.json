@@ -1,4 +1,12 @@
 {
+  "name": "fork_multi_gitlabrepo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": "https://github.com/hotrungnhan/fork_multi_gitlabrepo",
+  "author": "hotrungnhan <hotrungnhan29@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1"
   }
